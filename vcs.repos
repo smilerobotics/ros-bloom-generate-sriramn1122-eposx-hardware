@@ -1,0 +1,13 @@
+repositories:
+  battery_state_interface:
+    type: git
+    url: https://github.com/yoshito-n-students/battery_state_interface.git
+    version: master
+  dynamic_joint_limits_interface:
+    type: git
+    url: https://github.com/yoshito-n-students/dynamic_joint_limits_interface.git
+    version: master
+  eposx_hardware:
+    type: git
+    url: https://github.com/sriramn1122/eposx_hardware.git
+    version: devel
